@@ -2,8 +2,12 @@ resp = {
     "hello" "hii": "Hlw how may i help you ?",
     "hlo": "Hey there! How's it going??",
     "hlw":  "hello What's up?",
+    "hii": "hlo what's up ?",
     "how are you": "I'm good, thanks for asking..  what about you?",
     "good": "Good to hear this.. How can i help you?",
+    "nothing": "umm.. okk☺️",
+    "what are you doing": "just talking to you..😇",
+    "where are you from": "india",
     "what is your name": "i'm Goldy(RVA)",
     "who is your owner": "my owner is Mr. Adarsh singh",
     "who is richest man on earth": "Elon musk",
@@ -19,9 +23,11 @@ resp = {
     "can u solve math problems ?": "yeah bit very basic..",
     "what is 4 * 5": "20",
     "what is 100/5": "20",
+    "give me some motivation": "sure:\nif you start...one thing is for sure you will not die with regret\nso just do it.. hope this give you a boost 😊",
     "i want to start a business what should i do":"pick something research about it and just start..good luck",
     "tell me an idea that can really go big": "sure: \n Pharmacy\n makeup for women\n agriculture new technogies\n low rate clother with good quality",
     "thanku": "wlcm have a nice day☺️",
+    "thanks": "most welcome ☺️ feel free to ask..",
     "what do u think about ai": "ai is really great and it will gonna boost very much because of its capablities...",
     "create a python program of addition": "sure: \n def add(): \n inp = input('enter first number': )\n inp2= input('enter second number': )\n sum = inp + inp2\n print(sum)\n add())",
     "can u recommend me a book": "hard things by hard things, this book is really good.",
@@ -53,8 +59,8 @@ resp = {
     "how many states in india": "28 states",
     "tell me some facts": "Sharks existed before trees!🥸",
     "when u were created": "i was created on March 01/2025",
-    "what is your aim": "my aim to provide answers of your questions.."
-    #dont use question mark
+    "what is your aim": "my aim to provide answers of your questions..",
+    "how can i focus on one thing": "by meditation🧘🧘\nmeditation really help to improve mind and it really increase your ability to focus🧿",
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
