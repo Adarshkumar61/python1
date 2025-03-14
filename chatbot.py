@@ -1,4 +1,4 @@
-resp = {
+data = {
     "hello" "hii": "Hlw how may i help you ?",
     "hlo": "Hey there! How's it going??",
     "hlw":  "hello What's up?",
@@ -83,8 +83,8 @@ def chatbot():
     print("use correct grammer for asking question.".title())
     while True:
         user_input = input("You: ").lower()
-        if user_input in resp:
-            print("Goldy: ", resp[user_input].title())
+        if user_input in data:
+            print("Goldy: ", data[user_input].title())
         elif user_input == "quit":
             print(" have a nice day..☺️".title())
             break    
