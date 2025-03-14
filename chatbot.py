@@ -7,6 +7,7 @@ resp = {
     "good": "Good to hear this.. How can i help you?",
     "nothing": "umm.. okk☺️",
     "what are you doing": "just talking to you..😇",
+    "who made you": "i am created by RVA,owner: adarsh singh",
     "where are you from": "india",
     "what is your name": "i'm Goldy(RVA)",
     "who is your owner": "my owner is Mr. Adarsh singh",
@@ -15,7 +16,9 @@ resp = {
     "who is ceo of google": "sunder pichai",
     "who is pm of india": "shri Narendra damodar das modi",
     "what can you do": "I can give do like greetings, some facts, motivatio, some python programs(addition)(subtraction) and other..feel free to ask..☺️",
+    "what you can do": "I can give do like greetings, some facts, motivatio, some python programs(addition)(subtraction) and other..feel free to ask..☺️",
     "2+2": "4",
+    "what is the value of pi": "22/7 or 3.14",
     "tell me a joke": "your life... ☠️",
     "tell me a dark joke": "dark humour is like food everyone can't gets it...☠️",
     "what is the one motivaion you give": "you only have 2 options: \n 1. Either play safe and die with regrets or \n 2. Take risk and die with a story",
@@ -61,6 +64,9 @@ resp = {
     "when u were created": "i was created on March 01/2025",
     "what is your aim": "my aim to provide answers of your questions..",
     "how can i focus on one thing": "by meditation🧘🧘\nmeditation really help to improve mind and it really increase your ability to focus🧿",
+    "which is the fastest programming language": "well c and c++ are considered as fastest programming language.",
+    "which is faster python or c": "c but python is more powerful becuase it has so much use in ai and different fields also",
+    "you are wrong": "i am basic chatbot so maybe i can be wrong sometime",
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
