@@ -77,7 +77,7 @@ data = {
     "how many states in india": "28 states",
     "tell me some facts": "Sharks existed before trees!🥸",
     "when you were created": "i was created on March 01/2025",
-    "what is your aim": "my aim to provide answers of your questions..",
+    "what is your aim": "my aim is to provide answers of your questions..",
     "how can i focus on one thing": "by meditation🧘🧘\nmeditation really help to improve mind and it really increase your ability to focus🧿",
     "which is the fastest programming language": "well c and c++ are considered as fastest programming language.",
     "which is faster python or c": "c but python is more powerful becuase it has so much use in ai and different fields also",
@@ -86,6 +86,15 @@ data = {
     "what is python": "python is highly used prgramming language which is used to make applications ai intergrated chatbots and many..",
     "why we need to understand programming language": "well, to communicate with computer.",
     "what is the capital of india": "delhi is the capital of india.",
+    "what should i learn so that my future will be secure": "so learning is very curcial part in life\nif you want to secure future you should take any carrer (you are interseted in)\nand research about that thing and fully prepare for that \n this can make you future secure and also helps to go with your desire destination 😊",
+    "full form of seo": "search engine optimisation",
+    "what are the skills required to build website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
+    "what are the skills required to build a fully working website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
+    "what are the skills required to build websites": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
+    "which is the best ipl team": "well all are very good teams but\naccording to trophies\nMI and CSK are the best teams so far",
+    "which mobile phone is best": "according to survey of 2024 samsung s24 is the best mobile phone",
+    "which mobile is best": "according to survey of 2024 samsung s24 is the best mobile phone",
+    "give me some motivational lines": "sure:\nno is going to save you\nif you want to create a big impact on world start working\nexcution is the main thing,\neveryone has an idea but few people have courage to execute so start executing things,\ndon't afraid of failing "
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
