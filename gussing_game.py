@@ -10,5 +10,5 @@ def guess():
         elif guess > no_guess:
             print("too high....")
         else:
-            print("Congratulation you guessed the number", no_guess)
+            print("Congratulation you guessed the number\nThe number is:", no_guess)
 guess()
