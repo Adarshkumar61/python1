@@ -105,7 +105,9 @@ def chatbot():
     print("don't use question mark for asking question.".title())
     print("use correct grammer for asking question.".title())
     print("if you are asking questions use wh word ☺️".title())
+    
     while True:
+        
         user_input = input("You: ").lower()
         if user_input in data:
             print("Goldy: ", data[user_input].title())
@@ -114,4 +116,5 @@ def chatbot():
             break    
         else:
             print("Sorry this is not in my memory Coming soon..., ask other question..\n make sure you used correct grammer.".title())
+            
 chatbot()            
