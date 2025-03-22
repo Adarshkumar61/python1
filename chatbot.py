@@ -62,7 +62,7 @@ data = {
     "how to become a developer": "Becoming a developer is an exciting journey! Here's a general roadmap to help you get started:\n 1. Choose Your Path\n2. Learn the Basics of Programming\n3.Get Hands-On with Projects \n best of luck for your future😊",
     "okk": "☺️",
     "ok": "☺️",
-    "okay": "☺️",
+    "okay": "",
     "yes": "hmmm🙂",
     "create a python code of addition": "sure: \n def add(): \n inp = input('enter first number': )\n inp2= input('enter second number': )\n sum = inp + inp2\n print(sum)\n add())",
     "create a python code of multiplication": "sure: \n def multiply(): \n inp = input('enter first number': )\n inp2= input('enter second number': )\n mul = inp * inp2\n print(mul)\n subtract())",
@@ -87,7 +87,7 @@ data = {
     "why we need to understand programming language": "well, to communicate with computer.",
     "what is the capital of india": "delhi is the capital of india.",
     "what should i learn so that my future will be secure": "so learning is very curcial part in life\nif you want to secure future you should take any carrer (you are interseted in)\nand research about that thing and fully prepare for that \n this can make you future secure and also helps to go with your desire destination 😊",
-    "full form of seo": "search engine optimisation",
+    "what is the full form of seo": "search engine optimisation",
     "what are the skills required to build website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
     "what are the skills required to build a fully working website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
     "what are the skills required to build websites": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\n and you are ready to deploy a fully functioned web\n and in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
@@ -104,6 +104,7 @@ def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
     print("don't use question mark for asking question.".title())
     print("use correct grammer for asking question.".title())
+    print("if you are asking questions use wh word ☺️".title())
     while True:
         user_input = input("You: ").lower()
         if user_input in data:
