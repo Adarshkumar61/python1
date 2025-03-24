@@ -82,7 +82,7 @@ data = {
     "which is the fastest programming language": "well c and c++ are considered as fastest programming language.",
     "which is faster python or c": "c but python is more powerful becuase it has so much use in ai and different fields also",
     "you are wrong": "i am basic chatbot so maybe i can be wrong sometime",
-    "what is the moto behind creating you" : "as of my owner\n i was created just for some pratice of code ☺️",
+    "what is the reason behind creating you" : "as of my owner\n i was created just for some pratice of code ☺️",
     "what is python": "python is highly used prgramming language which is used to make applications ai intergrated chatbots and many..",
     "why we need to understand programming language": "well, to communicate with computer.",
     "what is the capital of india": "delhi is the capital of india.",
