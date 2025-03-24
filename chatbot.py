@@ -25,7 +25,7 @@ data = {
     "tell me a joke": "your life... ☠️",
     "tell me a dark joke": "dark humour is like food everyone can't gets it...☠️",
     "what is the one motivaion you give": "you only have 2 options: \n 1. Either play safe and die with regrets or \n 2. Take risk and die with a story",
-    "what is the criteria to vote in india": "to vote in india you have to 18 or plus",
+    "what is the criteria to vote in india": "to vote in india you have to be 18 or plus",
     "can you solve math problems ?": "yeah bit very basic..",
     "what is 4 * 5": "20",
     "what is 100/5": "20",
