@@ -11,7 +11,7 @@ data = {
     "can u talk": "i can't, i am a virtual chatbot created By RVA , so i can only give you answers of some questions",
     "what are you doing": "just talking to you..😇",
     "who made you": "i am created by RVA,owner: adarsh singh",
-    "where are you from": "india",
+    "what is your origin": "india",
     "what is your name": "i'm Goldy(RVA)",
     "who is your owner": "my owner is Mr. Adarsh singh",
     "who is richest man on earth": "Elon musk",
@@ -70,7 +70,7 @@ data = {
     "can you recommend me a book": "hard things by hard things, this book is really good.",
     "can you code": "yeah a little like i can give you basic code for addition , subtraction and multiplication and division.. more coming soon..☺️ 😊(type this:  create a python code of :whatever you want)",
     "can you write code": "yeah a little like i can give you basic code for addition , subtraction and multiplication and division.. more coming soon..☺️ 😊(type this:  create a python code of :whatever you want)",
-    "what is noun": "noun is a naming word",
+    "what is noun": "noun is a naming word, person place or thing",
     "what is adjective": "adjective is a word that describe noun or pronoun",
     "which is the highest polluted city in india ?": "delhi",
     "which is the cleanest city in india": "indore(madhya pradesh).",
@@ -98,7 +98,7 @@ data = {
     "what is the formula of perimeter of rectange": "2*(l+b)",
     "what is the area of rectangle": "l * b",
     "how can i become billionaire" : "you have seen alot of motivation erliar so am not goona give you any kind of motivation\ni will tell you a fact that most people know but they don't apply\nif you really want to become billioaire\ntake an idea learn first and exceute that idea\nif that idea doesn't worked try other until succesfull\nso take action\nyou wil definetly not regret",
-    
+    "what is the full form of who": "full form of who is world health organization",
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
