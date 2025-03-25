@@ -1,6 +1,6 @@
 import requests
 
-API_URL = "https://api.exchangerate-api.com/v4/latest/USD"#from a web off currency rates of real time
+API_URL = "https://api.exchangerate-api.com/v4/latest/USD"#from a web of currency rates of real time
 
 response = requests.get(API_URL)
 
