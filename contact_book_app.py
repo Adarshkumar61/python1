@@ -59,7 +59,7 @@ while True:
     print("4. Contact search...")
     print("5. contact update..")
     print("6. for quit contact app..")
-    choice = input("enter the number of task: ")
+    choice = input("enter the number of task you want to do: ")
     
     if choice == "1":
         add = input("Enter the details of contact(Name, Phone Number): ")
