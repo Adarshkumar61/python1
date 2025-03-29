@@ -26,4 +26,4 @@ moddel = DecisionTreeClassifier()
 moddel.fit(X_train, y_train) #takes 2 parameter for prediction (it will train the model based on data (input and output))
 
 prediction = moddel.predict(X_test)
-score = accuracy_score(y_test, prediction) #return accurracy of our model
+score = accuracy_score(y_test, prediction) #return accurracy of our model prediction
