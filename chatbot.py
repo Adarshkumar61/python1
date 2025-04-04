@@ -99,6 +99,7 @@ data = {
     "what is the area of rectangle": "l * b",
     "how can i become billionaire" : "you have seen alot of motivation erliar so am not goona give you any kind of motivation\ni will tell you a fact that most people know but they don't apply\nif you really want to become billioaire\ntake an idea learn first and exceute that idea\nif that idea doesn't worked try other until succesfull\nso take action\nyou wil definetly not regret",
     "what is the full form of who": "full form of who is world health organization",
+    "how many types of machine learning are": "there are 3 types of machine learning.\n1.supervised ml\n2.unsupervised ml.\n3.reinforcement ml"
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
