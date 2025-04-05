@@ -28,3 +28,4 @@ moddel.fit(X_train, y_train) #takes 2 parameter for prediction (it will train th
 prediction = moddel.predict(X_test)
 score = accuracy_score(y_test, prediction) #return accurracy of our model prediction
 prediction = moddel.predict () # your input
+print(prediction) #this will predict your ouput 
