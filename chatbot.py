@@ -105,7 +105,7 @@ def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
     print("don't use question mark for asking question.".title())
     print("use correct grammer for asking question.".title())
-    print("if you are asking questions use wh word ☺️".title())
+    print("if you are asking questions use wh word ☺️".title()) 
     
     while True:
         
