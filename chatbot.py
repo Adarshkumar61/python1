@@ -114,7 +114,7 @@ def chatbot():
             print("Goldy: ", data[user_input].title())
         elif user_input == "quit":
             print(" have a nice day..☺️".title())
-            break    
+            break
         else:
             print("Sorry this is not in my memory Coming soon..., ask other question..\n make sure you used correct grammer.".title())
             
