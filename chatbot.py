@@ -98,7 +98,7 @@ data = {
     "what is the formula of perimeter of rectange": "2*(l+b)",
     "what is the area of rectangle": "l * b",
     "how can i become billionaire" : "you have seen alot of motivation erliar so am not goona give you any kind of motivation\ni will tell you a fact that most people know but they don't apply\nif you really want to become billioaire\ntake an idea learn first and exceute that idea\nif that idea doesn't worked try other until succesfull\nso take action\nyou wil definetly not regret",
-    "what is the full form of who": "full form of who is world health organization",
+    "what is the full form of who": "full form of who is world health organization", 
     "how many types of machine learning are": "there are 3 types of machine learning.\n1.supervised ml\n2.unsupervised ml.\n3.reinforcement ml",
     "what language do i require to enter to enter in ml": "1st: 'Python' it is a base language.\n2.python's 4 libraries you have to study\(1):Numpy\(2):Pandas(3).matplotlib\(4).seaborn\nand in last you need to undetstand sklearn\nit is very important fot ml models and all\nso you need basic knowledge how we import what is the use\nfter all that\you are ready to dive into ml\nbest of luck champ😊",
     "which planet is closest to the sun": "Mercury is the planet closest to the Sun, with an average distance of about  58 million kilometers", 
