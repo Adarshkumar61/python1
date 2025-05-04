@@ -46,7 +46,7 @@ data = {
     "can you speak": "i can't, i am a virtual chatbot created By RVA , so i can only give you answers of some questions",
     "who created you": "i am created by RVA owner Adarsh kumar singh",
     "tell me about your owner information":  "'sorry' i can't disclose my owner info or any other person's info as it's private thing 🙂",
-    "what you can do that other ai can't": "for your clarification i am not an AI i am just a normal chatbot which can give answers of simple questions..",
+    "what you can do that other ai cant": "for your clarification i am not an AI i am just a normal chatbot which can give answers of simple questions..",
     "tell me another joke": "Why did the astronaut break up with his girlfriend? \n Because he needed space!",
     "emoji": "😀😃😄😆🥹😅😂🤣🥲☺️😊😇🙂🙃😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨🧐🤓😎🥸🤩🥳🙂‍↕️😏😒🙂‍↔️😞😔😔😟😕🙁☹️😣😖😫😩🥺😢😭😤😠😡🤬🤯😳🥵🥶😶‍🌫️😱😨😰😥🤗🤔🫣🤭🫢🫡🤫🫠🤧🤤😑🫤",
     "give me some happy emoji": "sure:\n😀😃😄 ☺️😊😇", 
