@@ -34,6 +34,7 @@ data = {
     "tell me an idea that can really go big": "sure: \n Pharmacy\n makeup for women\n agriculture new technogies\n low rate clother with good quality",
     "thanku": "wlcm have a nice day ☺️",
     "thanks": "most welcome ☺️ feel free to ask anything..",
+    "what is the diameter of earth": "the diameter of earth is approximately 12742kilometer.",
     "what do you think about ai": "ai is really great and it will gonna boost very much because of its capablities...",
     "create a python code of subtraction": "sure: \n def subtract(): \n inp = input('enter first number': )\n inp2= input('enter second number': )\n sub = inp - inp2\n print(sub)\n subtract())",
     "can you recommend me a book": "hard things by hard things, this book is really good.",
