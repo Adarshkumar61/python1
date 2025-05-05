@@ -117,7 +117,7 @@ def chatbot():
         user_input = input("You: ").lower()
         if user_input in data:
             print("Goldy: ", data[user_input].title())
-        elif user_input == "quit":
+        elif user_input == "quit" or "exit":
             print(" have a nice day..☺️".title())
             break
         else:
