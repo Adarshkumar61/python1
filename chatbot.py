@@ -121,6 +121,6 @@ def chatbot():
             print(" have a nice day..☺️".title())
             break
         else:
-            print("Sorry this is not in my memory Coming soon..., ask other question..\n make sure you used correct grammer.".title())
+            print("Sorry this is not in my memory Coming soon..., ask other question..\n make sure you have used correct grammer.".title())
             
 chatbot()
