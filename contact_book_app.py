@@ -12,7 +12,7 @@ def contact_view():
         print("list is Empty..")
     for i, todo in enumerate(contact_information, start=1):
         name, phnumber =todo
-        print(f"{i}. Name: {name} and phone number is {phnumber}")    
+        print(f"{i}. Name: {name} and Phone number is {phnumber}")    
 
 def contact_delete(contact_number):
     try:
