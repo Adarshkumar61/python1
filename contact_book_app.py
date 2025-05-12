@@ -9,7 +9,7 @@ def contact_add(add):
 
 def contact_view():
     if not contact_information:
-        print("list is empty..")
+        print("list is Empty..")
     for i, todo in enumerate(contact_information, start=1):
         name, phnumber =todo
         print(f"{i}. Name: {name} and phone number is {phnumber}")    
