@@ -3,7 +3,7 @@ import string
 
 character = " " + string.ascii_letters + string.digits + string.punctuation
 character = list(character)
-key = character.copy()
+key = character.copy() 
 random.shuffle(key)
 
 plain_text = input("Enter the plain Text: ")
