@@ -31,7 +31,7 @@ def contact_search(search):
             name, phnumber = todo
             print(f"{i}. Name: {name}, PhoneNumber: {phnumber}")
     else:
-        print("sorry no contact found with this name.")
+        print("Sorry no contact found with this name.")
         
 def contact_update():
     search_name = input("Enter the name of person for updation: ")
@@ -53,7 +53,7 @@ def contact_update():
         print("Contact list not found..")    
 
 while True:
-    print("1. create contact..")
+    print("1. Create contact..")
     print("2. View contact..")
     print("3. Delete Contact..")
     print("4. Contact search...")
