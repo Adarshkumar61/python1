@@ -105,6 +105,7 @@ data = {
     "how many types of machine learning are": "there are 3 types of machine learning.\n1.supervised ml\n2.unsupervised ml.\n3.reinforcement ml",
     "what language do i require to enter to enter in ml": "1st: 'Python' it is a base language.\n2.python's 4 libraries you have to study\(1):Numpy\(2):Pandas(3).matplotlib\(4).seaborn\nand in last you need to undetstand sklearn\nit is very important fot ml models and all\nso you need basic knowledge how we import what is the use\nfter all that\you are ready to dive into ml\nbest of luck champ😊",
     "which planet is closest to the sun": "Mercury is the planet closest to the Sun, with an average distance of about  58 million kilometers", 
+    "we are in which galaxy": "We are in milkyway galaxy."
 }
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
