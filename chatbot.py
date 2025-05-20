@@ -99,7 +99,7 @@ data = {
     "which mobile is best": "according to survey of 2024 samsung s24 is the best mobile phone",
     "give me some motivational lines": "sure:\nno is going to save you\nif you want to create a big impact on world start working\nexcution is the main thing,\neveryone has an idea but few people have courage to execute so start executing things,\ndon't afraid of failing ",
     "what is the formula of perimeter of rectange": "2*(l+b)", 
-    "what is the area of rectangle": "l * b",
+    "what is the area of rectangle": "l * b",  
     "how can i become billionaire" : "you have seen alot of motivation erliar so am not goona give you any kind of motivation\ni will tell you a fact that most people know but they don't apply\nif you really want to become billioaire\ntake an idea learn first and exceute that idea\nif that idea doesn't worked try other until succesfull\nso take action\nyou wil definetly not regret",
     "what is the full form of who": "full form of who is world health organization", 
     "how many types of machine learning are": "there are 3 types of machine learning.\n1.supervised ml\n2.unsupervised ml.\n3.reinforcement ml",
