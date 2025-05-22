@@ -10,3 +10,4 @@ def minus():
     f = c - d
     print(f)
 minus()
+#example of how to create and call function
