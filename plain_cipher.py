@@ -1,7 +1,7 @@
 import random
 import string
 
-character = " " + string.ascii_letters + string.digits + string.hexdigits
+character = " " + string.ascii_letters + string.digits + string.hexdigits + string.punctuation
 character = list(character)
 key = character.copy() 
 random.shuffle(key)
