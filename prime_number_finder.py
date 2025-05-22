@@ -1,3 +1,4 @@
+import time
 def prime_number_finder():
     def check_prime(n):
         if n < 1:
@@ -20,5 +21,6 @@ def prime_number_finder():
     if ask == "yes":
         prime_number_finder()
     else:
-        print("Existing")
+        print("Exiting..")
+        time.sleep(2)
 prime_number_finder()
