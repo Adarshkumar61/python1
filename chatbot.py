@@ -90,7 +90,7 @@ data = {
     "why we need to understand programming language": "well, to communicate with computer.",
     "what is the capital of india": "delhi is the capital of india.",
     "what should i learn so that my future will be secure": "so learning is very curcial part in life\nif you want to secure future you should take any carrer (you are interseted in)\nand research about that thing and fully prepare for that \nthis can make you future secure and also helps to go with your desire destination 😊",
-    "what is the full form of seo": "search engine optimisation",
+    "what is the full form of seo": "search engine optimisation", 
     "what are the skills required to build website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\nand you are ready to deploy a fully functioned web\nand in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
     "what are the skills required to build a fully working website": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\nand you are ready to deploy a fully functioned web\nand in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
     "what are the skills required to build websites": "sure:\nfirst you need to learn fornt-end part (html, css javascript) and next js\nfor backend you have to learn node js\nfor user data learn mongodb\nand you are ready to deploy a fully functioned web\nand in last you need your domain name and vps.\n that's all you need 😊\n hoping best for your future 😊😊",
