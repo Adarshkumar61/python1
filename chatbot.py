@@ -87,7 +87,7 @@ data = {
     "you are wrong": "i am basic chatbot so maybe i can be wrong sometime",
     "what is the reason behind creating you" : "as of my owner\ni was created just for some pratice of code ☺️",
     "what is python": "python is highly used prgramming language which is used to make applications ai intergrated chatbots and many..",
-    "why we need to understand programming language": "well, to communicate with computer.",
+    "why we need to understand programming language": "well, to communicate with computer.", 
     "what is the capital of india": "delhi is the capital of india.",
     "what should i learn so that my future will be secure": "so learning is very curcial part in life\nif you want to secure future you should take any carrer (you are interseted in)\nand research about that thing and fully prepare for that \nthis can make you future secure and also helps to go with your desire destination 😊",
     "what is the full form of seo": "search engine optimisation", 
