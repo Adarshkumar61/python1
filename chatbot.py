@@ -81,6 +81,7 @@ data = {
     "tell me some interesting fact": "Sharks existed before trees!🥸",
     "when you were created": "i was created on March 01/2025",
     "what is your aim": "my aim is to provide answers of your questions..",
+    "how many days in a months": "Well it depends 30 or 31 and february has 28 and in leap year 29.",
     "how can i focus on one thing": "by meditation🧘\nmeditation really help to improve mind and it really increase your ability to focus🧿",   
     "which is the fastest programming language": "well c and c++ are considered as fastest programming language.",
     "which is faster python or c": "c but python is more powerful becuase it has so much use in ai and different fields also",
