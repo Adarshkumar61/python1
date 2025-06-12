@@ -101,6 +101,7 @@ data = {
     "give me some motivational lines": "sure:\nno is going to save you\nif you want to create a big impact on world start working\nexcution is the main thing,\neveryone has an idea but few people have courage to execute so start executing things,\ndon't afraid of failing ",
     "what is the formula of perimeter of rectange": "2*(l+b)",
     "what is the area of rectangle": "l * b",
+    "which is the tallest bridge in world?" : "tallest bridge in world is chenab bridge in india inaugurated in june 2025",
     "recommend my a book": "Hard things about hard things or 'zero to one'",
     "how can i become billionaire" : "you have seen alot of motivation earlier  so am not goona give you any kind of motivation\ni will tell you a fact that most people know but they don't apply\nif you really want to become billioaire\ntake an idea learn first and exceute that idea\nif that idea doesn't worked try other until succesfull\nso take action\nyou wil definetly not regret",
     "what is the full form of who": "full form of who is world health organization", 
