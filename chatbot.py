@@ -62,7 +62,7 @@ data = {
     "what is the meaning of rva": "sorry i can't disclose this information now..😊 but soon...",
     "tell me about yourself": "sure, I'm Goldy created by Rva and i answer some questions...and\n something big is coming soon..😎",
     "how to become a developer": "Becoming a developer is an exciting journey! Here's a general roadmap to help you get started:\n1. Choose Your Path\n2. Learn the Basics of Programming\n3.Get Hands-On with Projects \nbest of luck for your future😊",
-    "okk": "☺️",
+    "okk": "☺️", 
     "ok": "☺️",
     "okay": "",
     "yes": "hmmm🙂",
