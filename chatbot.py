@@ -58,7 +58,7 @@ data = {
     "can you describe yourself in one word": "helper", 
     "who is rva": "sorry i can't disclose this information now..😊but soon...",
     "what is the full form of ceo": "full form of ceo is cheif executive officer.",
-    "what is rva": "sorry i can't disclose this information now..😊 but soon...",
+    "what is rva": "sorry i can't disclose this information now..😊 but soon...", 
     "what is the meaning of rva": "sorry i can't disclose this information now..😊 but soon...",
     "tell me about yourself": "sure, I'm Goldy created by Rva and i answer some questions...and\n something big is coming soon..😎",
     "how to become a developer": "Becoming a developer is an exciting journey! Here's a general roadmap to help you get started:\n1. Choose Your Path\n2. Learn the Basics of Programming\n3.Get Hands-On with Projects \nbest of luck for your future😊",
