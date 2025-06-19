@@ -65,7 +65,7 @@ data = {
     "okk": "☺️", 
     "ok": "☺️",
     "okay": "",
-    "yes": "hmmm🙂",
+    "yes": "hmmm🙂", 
     "who is Prime Minister of india": "Prime Minister of india is shree narendra damodar das modi jee",
     "create a python code of addition": "sure: \ndef add(): \ninp = input('enter first number': )\ninp2= input('enter second number': )\nsum = inp + inp2\nprint(sum)\nadd())",
     "create a python code of multiplication": "sure: \ndef multiply(): \ninp = input('enter first number': )\n inp2= input('enter second number': )\nmul = inp * inp2\nprint(mul)\nsubtract())",
