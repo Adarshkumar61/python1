@@ -76,7 +76,7 @@ data = {
     "what is noun": "noun is a naming word, person place or thing",
     "what is adjective": "adjective is a word that describe noun or pronoun",
     "which is the highest polluted city in india ?": "delhi",
-    "which is the cleanest city in india": "indore(madhya pradesh).",
+    "which is the cleanest city in india": "indore(madhya pradesh).", 
     "how many states in india": "28 states",
     "tell me some interesting fact": "Sharks existed before trees!🥸",
     "when you were created": "i was created on March 01/2025",
