@@ -52,7 +52,7 @@ data = {
     "give me some happy emoji": "sure:\n😀😃😄 ☺️😊😇", 
     "give me some sad emoji": "sure:\n🥹😒😞😔😔", 
     "i am sad": "ohh..don't be sad 🥹\n here is a joke that can make you smile and make your day better ☺️😊\n Why don't skeletons fight each other?\nBecuse they don't have the guts! 😄\nHope that gave you a laugh!",
-    "i am happy": "That's awesome!😊",
+    "i am happy": "That's awesome!😊", 
     "who is goat of cricket": "Sachin Tendulkar is often called the God of Cricket.",
     "describe yourself in one word": "helper",
     "can you describe yourself in one word": "helper",
