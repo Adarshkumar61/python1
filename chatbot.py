@@ -22,7 +22,7 @@ data = {
     "2+2": "4",
     "what is the value of pi": "22/7 or 3.14", 
     "tell me a joke": "your life... ☠️", 
-    "what is the full form of NEP": "full form of NEP is national education policy",
+    "what is the full form of NEP": "full form of NEP is national education policy", 
     "tell me a dark joke": "dark humour is like food everyone can't gets it...☠️",
     "what is the one motivaion you give": "you only have 2 options: \n 1. Either play safe and die with regrets or \n 2. Take risk and die with a story",
     "what is the criteria to vote in india": "to vote in india you have to be 18 or plus",
