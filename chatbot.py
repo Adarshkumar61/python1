@@ -20,7 +20,7 @@ data = {
     "what can you do": "I can give do like greetings, some facts, motivatio, some python programs(addition)(subtraction) and other..feel free to ask..☺️",
     "what you can do": "I can give do like greetings, some facts, motivatio, some python programs(addition)(subtraction) and other..feel free to ask..☺️",
     "2+2": "4",
-    "what is the value of pi": "22/7 or 3.14", 
+    "what is the value of pi": "22/7 or 3.14",    
     "tell me a joke": "your life... ☠️", 
     "what is the full form of NEP": "full form of NEP is national education policy", 
     "tell me a dark joke": "dark humour is like food everyone can't gets it...☠️",
