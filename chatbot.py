@@ -84,7 +84,11 @@ data = {
     "when you were created": "i was created on March 01/2025",
     "what is your aim": "my aim is to provide answers of your questions..",
     "how many days in a months": "Well it depends 30 or 31 and february has 28 and in leap year 29.",
+<<<<<<< HEAD
     "how can i focus on one thing": "by meditation🧘\nmeditation really helps us to improve mind and it really increase your ability to focus🧿",   
+=======
+    "how can i focus on one thing": "by meditation🧘\nmeditation really help to improve mind and it really increase your ability to focus🧿",   
+>>>>>>> c43fd4660b5b5b4f168c9cefe727720ecaf816a9
     "which is the fastest programming language": "well c and c++ are considered as fastest programming language.",
     "which is faster python or c": "c but python is more powerful becuase it has so much use in ai and different fields also",
     "you are wrong": "i am basic chatbot so maybe i can be wrong sometime",
