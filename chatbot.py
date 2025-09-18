@@ -78,7 +78,7 @@ data = {
     "what is noun": "noun is a naming word, person place or thing",
     "what is adjective": "adjective is a word that describe noun or pronoun",
     "which is the highest polluted city in india ?": "delhi",
-    "which is the cleanest city in india": "indore(madhya pradesh).", 
+    "which is the cleanest city in india": "indore(madhya pradesh).",
     "how many states in india": "28 states",
     "tell me some interesting fact": "Sharks existed before trees!🥸",
     "when you were created": "i was created on March 01/2025",
@@ -111,6 +111,7 @@ data = {
     "what language do i require to enter in machine learning": "1st: 'Python' it is a base language.\n2.python's 4 libraries you have to study\(1):Numpy\(2):Pandas(3).matplotlib\(4).seaborn\nand in last you need to undetstand sklearn\nit is very important fot ml models and all\nso you need basic knowledge how we import what is the use\nfter all that\you are ready to dive into ml\nbest of luck champ😊",
     "which planet is closest to the sun": "Mercury is the planet closest to the Sun, with an average distance of about  58 million kilometers", 
     "we are in which galaxy": "We are in milkyway galaxy.",
+    "tell me the full form of ros": "full form of ros is robotics operating system"
 }  
 def chatbot():
     print("Hlo wclm to RVA chatbot..".title())
